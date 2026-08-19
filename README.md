@@ -35,7 +35,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Design
 
-* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21 - Best practices about REST API security
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,302 | 🐛 2 | 📅 2026-07-21 - Best practices about REST API security
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design) ⭐ 13,684 | 🐛 30 | 📅 2024-01-16
 * [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -114,13 +114,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Generators
 
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,679 | 🐛 5,714 | 🌐 Java | 📅 2026-08-19 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,680 | 🐛 5,714 | 🌐 Java | 📅 2026-08-19 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## Servers
 
 ### Directly On Top Of A RMDB
 
-* [postgrest](https://github.com/begriffs/postgrest) ⭐ 27,608 | 🐛 395 | 🌐 Haskell | 📅 2026-08-19 - Serve a fully RESTful API directly from an existing PostgreSQL database.
+* [postgrest](https://github.com/begriffs/postgrest) ⭐ 27,610 | 🐛 395 | 🌐 Haskell | 📅 2026-08-19 - Serve a fully RESTful API directly from an existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) ⭐ 4,609 | 🐛 151 | 🌐 Go | 📅 2026-08-14 - A fully RESTful API from any existing PostgreSQL database written in Go.
 * [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
@@ -129,7 +129,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [node-restify](https://github.com/restify/node-restify) ⭐ 10,685 | 🐛 132 | 🌐 JavaScript | 📅 2026-08-18 - Framework specifically meant for REST API.
 * [Nestjsx/crud](https://github.com/nestjsx/crud) ⭐ 4,324 | 🐛 290 | 🌐 TypeScript | 📅 2024-07-16 - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) ⭐ 1,181 | 🐛 76 | 🌐 JavaScript | 📅 2023-03-26 - Generate RESTful API based on mongoose models that supports relational data.
-* [Expressa](https://github.com/thomas4019/expressa) ⭐ 452 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-18 - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+* [Expressa](https://github.com/thomas4019/expressa) ⭐ 452 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-19 - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) ⭐ 354 | 🐛 38 | 🌐 JavaScript | 📅 2015-01-12 - Isomorphic Resource engine for JavaScript.
 * [mers](https://github.com/jspears/mers) ⭐ 343 | 🐛 14 | 🌐 JavaScript | 📅 2015-06-21 - Express service exposing Mongoose finders as RESTful API.
 * [Sails.js](https://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
@@ -166,7 +166,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Python
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,692 | 🐛 74 | 🌐 Python | 📅 2026-08-19 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,696 | 🐛 74 | 🌐 Python | 📅 2026-08-19 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 * [Falcon](https://github.com/falconry/falcon) ⭐ 9,794 | 🐛 160 | 🌐 Python | 📅 2026-07-31 - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [apistar](https://github.com/encode/apistar) ⚠️ Archived - A smart Web API framework, designed for Python 3.
 * [sandman](https://github.com/jeffknupp/sandman) ⭐ 2,289 | 🐛 37 | 🌐 Python | 📅 2021-12-25 - Automated REST APIs for existing database-driven systems.
@@ -264,7 +264,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ## Documentation
 
 * [Slate](https://github.com/lord/slate) ⚠️ Archived - Beautiful and responsive three-panel API documentation using Middleman.
-* [ReDoc](https://github.com/Rebilly/ReDoc/) ⭐ 25,882 | 🐛 451 | 🌐 TypeScript | 📅 2026-08-18 - OpenAPI/Swagger-powered three-panel documentation.
+* [ReDoc](https://github.com/Rebilly/ReDoc/) ⭐ 25,883 | 🐛 451 | 🌐 TypeScript | 📅 2026-08-18 - OpenAPI/Swagger-powered three-panel documentation.
 * [Optic](https://github.com/opticdev/optic) ⚠️ Archived - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [raml2html](https://github.com/raml2html/raml2html) ⭐ 1,131 | 🐛 27 | 🌐 JavaScript | 📅 2022-09-22 - Generates HTML documentation from a RAML file.
 * [Swagger](https://swagger.io/) - Documentation/querying web interface for REST APIs.
@@ -275,8 +275,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## API Gateway
 
-* [Kong](https://github.com/Kong/kong) ⭐ 44,002 | 🐛 189 | 🌐 Lua | 📅 2026-08-16 - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-* [Tyk API Gateway](https://github.com/TykTechnologies/tyk) ⭐ 10,794 | 🐛 502 | 🌐 Go | 📅 2026-08-19 - Lightweight API gateway with analytics logging, written in Go.
+* [Kong](https://github.com/Kong/kong) ⭐ 44,003 | 🐛 189 | 🌐 Lua | 📅 2026-08-16 - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* [Tyk API Gateway](https://github.com/TykTechnologies/tyk) ⭐ 10,794 | 🐛 501 | 🌐 Go | 📅 2026-08-19 - Lightweight API gateway with analytics logging, written in Go.
 * [Lura](https://github.com/luraproject/lura) ⭐ 6,787 | 🐛 12 | 🌐 Go | 📅 2026-08-18 - Ultra performant API Gateway with middleware. Written in Go.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) ⭐ 3,031 | 🐛 78 | 🌐 JavaScript | 📅 2024-05-14 - Microservices API Gateway built on top of ExpressJS (Node.js).
 * [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,194 | 🐛 257 | 🌐 Ruby | 📅 2026-08-17 - API management platform for exposing web services, with web interface and analytics, written in Lua.
@@ -286,7 +286,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## SaaS Tools
 
-* [Nango](https://github.com/NangoHQ/nango) ⭐ 11,504 | 🐛 117 | 🌐 TypeScript | 📅 2026-08-19 - Native integrations framework to consume REST APIs (open-source).
+* [Nango](https://github.com/NangoHQ/nango) ⭐ 11,506 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-19 - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
@@ -303,7 +303,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Miscellaneous
 
-* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,897 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09 - Add a ReactJS admin GUI to any RESTful API.
+* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,898 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09 - Add a ReactJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) ⭐ 17,779 | 🐛 3,447 | 🌐 Mustache | 📅 2026-08-18 - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 * [ng-admin](https://github.com/marmelab/ng-admin) ⭐ 3,901 | 🐛 111 | 🌐 JavaScript | 📅 2020-06-01 - Add an AngularJS admin GUI to any RESTful API.
 * [shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) ⭐ 1,072 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-03 - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API

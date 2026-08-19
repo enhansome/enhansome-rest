@@ -15,7 +15,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23301
+            "stars": 23302
           }
         },
         {
@@ -498,7 +498,7 @@
                 "last_commit": "2026-08-19T11:09:47Z",
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27608
+                "stars": 27610
               }
             },
             {
@@ -577,7 +577,7 @@
                 "archived": false,
                 "id": 58081483,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T11:57:13Z",
+                "last_commit": "2026-08-19T14:14:39Z",
                 "owner": "thomas4019",
                 "repo": "expressa",
                 "stars": 452
@@ -901,7 +901,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101692
+                "stars": 101696
               }
             },
             {
@@ -1255,7 +1255,7 @@
                 "archived": false,
                 "id": 203157084,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:05:56Z",
+                "last_commit": "2026-08-19T13:54:00Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
                 "stars": 3539
@@ -1426,7 +1426,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36040
+            "stars": 36039
           }
         },
         {
@@ -1441,7 +1441,7 @@
             "last_commit": "2026-08-18T16:30:59Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25882
+            "stars": 25883
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44002
+            "stars": 44003
           }
         },
         {
@@ -1504,7 +1504,7 @@
             "archived": false,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-19T12:51:03Z",
+            "last_commit": "2026-08-19T13:09:37Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
             "stars": 10794
@@ -1588,7 +1588,7 @@
             "last_commit": "2026-08-09T12:00:10Z",
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26897
+            "stars": 26898
           }
         },
         {
@@ -1641,7 +1641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:29.378Z",
+    "last_updated": "2026-08-19T14:51:30.038Z",
     "original_repository": "marmelab/awesome-rest",
     "original_repository_id": 35204235,
     "original_repository_sha": "496e923cac94f690f0da37617607f1ffe269763e",
