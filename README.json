@@ -15,7 +15,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23302
+            "stars": 23301
           }
         },
         {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23318
+                "stars": 23319
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-08T09:28:35Z",
                 "owner": "zalando",
                 "repo": "restful-api-guidelines",
-                "stars": 3226
+                "stars": 3227
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2024-05-19T10:18:13Z",
                 "owner": "rest-client",
                 "repo": "rest-client",
-                "stars": 5214
+                "stars": 5213
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-14T16:37:20Z",
                 "owner": "excon",
                 "repo": "excon",
-                "stars": 1174
+                "stars": 1173
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2026-07-26T00:45:12Z",
                 "owner": "go-resty",
                 "repo": "resty",
-                "stars": 11756
+                "stars": 11759
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-18T14:53:36Z",
                 "owner": "reactiveui",
                 "repo": "refit",
-                "stars": 9562
+                "stars": 9561
               }
             },
             {
@@ -495,10 +495,10 @@
                 "archived": false,
                 "id": 20787122,
                 "language": "Haskell",
-                "last_commit": "2026-08-19T11:09:47Z",
+                "last_commit": "2026-08-20T06:25:13Z",
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27610
+                "stars": 27614
               }
             },
             {
@@ -513,7 +513,7 @@
                 "last_commit": "2026-08-14T09:27:41Z",
                 "owner": "prest",
                 "repo": "prest",
-                "stars": 4609
+                "stars": 4610
               }
             }
           ],
@@ -766,7 +766,7 @@
                     "archived": false,
                     "id": 31790438,
                     "language": "PHP",
-                    "last_commit": "2026-08-01T15:52:36Z",
+                    "last_commit": "2026-08-20T08:14:32Z",
                     "owner": "api-platform",
                     "repo": "api-platform",
                     "stars": 9176
@@ -799,7 +799,7 @@
                     "last_commit": "2026-08-16T22:00:56Z",
                     "owner": "api-platform",
                     "repo": "core",
-                    "stars": 2570
+                    "stars": 2571
                   }
                 },
                 {
@@ -901,7 +901,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101696
+                "stars": 101723
               }
             },
             {
@@ -958,7 +958,7 @@
                 "archived": false,
                 "id": 2012231,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:24:21Z",
+                "last_commit": "2026-08-20T14:01:44Z",
                 "owner": "zatosource",
                 "repo": "zato",
                 "stars": 1012
@@ -1180,10 +1180,10 @@
                 "archived": false,
                 "id": 56899284,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:25:46Z",
+                "last_commit": "2026-08-20T13:16:27Z",
                 "owner": "Kong",
                 "repo": "insomnia",
-                "stars": 39956
+                "stars": 39957
               }
             },
             {
@@ -1198,7 +1198,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38431
+                "stars": 38434
               }
             },
             {
@@ -1213,7 +1213,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35470
+                "stars": 35477
               }
             },
             {
@@ -1255,10 +1255,10 @@
                 "archived": false,
                 "id": 203157084,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:54:00Z",
+                "last_commit": "2026-08-20T08:41:28Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
-                "stars": 3539
+                "stars": 3541
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2024-08-03T09:44:52Z",
                 "owner": "stepci",
                 "repo": "stepci",
-                "stars": 1867
+                "stars": 1868
               }
             },
             {
@@ -1355,7 +1355,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75691
+                "stars": 75684
               }
             },
             {
@@ -1438,10 +1438,10 @@
             "archived": false,
             "id": 45250726,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:30:59Z",
+            "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25883
+            "stars": 25886
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44003
+            "stars": 44008
           }
         },
         {
@@ -1504,10 +1504,10 @@
             "archived": false,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-19T13:09:37Z",
+            "last_commit": "2026-08-20T14:28:25Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10794
+            "stars": 10795
           }
         },
         {
@@ -1588,7 +1588,7 @@
             "last_commit": "2026-08-09T12:00:10Z",
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26898
+            "stars": 26903
           }
         },
         {
@@ -1603,7 +1603,7 @@
             "last_commit": "2026-08-18T13:51:20Z",
             "owner": "swagger-api",
             "repo": "swagger-codegen",
-            "stars": 17779
+            "stars": 17780
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-08-03T14:58:06Z",
             "owner": "marmelab",
             "repo": "shadcn-admin-kit",
-            "stars": 1072
+            "stars": 1073
           }
         }
       ],
@@ -1641,7 +1641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:51:30.038Z",
+    "last_updated": "2026-08-20T14:53:36.316Z",
     "original_repository": "marmelab/awesome-rest",
     "original_repository_id": 35204235,
     "original_repository_sha": "496e923cac94f690f0da37617607f1ffe269763e",
