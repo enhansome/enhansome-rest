@@ -437,7 +437,7 @@
                 "archived": false,
                 "id": 109750554,
                 "language": "C#",
-                "last_commit": "2026-07-17T15:48:37Z",
+                "last_commit": "2026-08-24T14:56:24Z",
                 "owner": "jgiacomini",
                 "repo": "Tiny.RestClient",
                 "stars": 208
@@ -791,7 +791,7 @@
                     "last_commit": "2026-08-24T06:31:59Z",
                     "owner": "api-platform",
                     "repo": "api-platform",
-                    "stars": 9179
+                    "stars": 9178
                   }
                 },
                 {
@@ -945,7 +945,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101813
+                "stars": 101815
               }
             },
             {
@@ -1268,7 +1268,7 @@
                 "archived": false,
                 "id": 56899284,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:56:05Z",
+                "last_commit": "2026-08-24T14:20:54Z",
                 "owner": "Kong",
                 "repo": "insomnia",
                 "stars": 39959
@@ -1343,7 +1343,7 @@
                 "archived": false,
                 "id": 203157084,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:35:13Z",
+                "last_commit": "2026-08-24T14:48:08Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
                 "stars": 3556
@@ -1514,7 +1514,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36037
+            "stars": 36036
           }
         },
         {
@@ -1592,7 +1592,7 @@
             "archived": false,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-24T12:00:25Z",
+            "last_commit": "2026-08-24T14:09:45Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
             "stars": 10798
@@ -1729,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:14.004Z",
+    "last_updated": "2026-08-24T14:58:35.413Z",
     "original_repository": "marmelab/awesome-rest",
     "original_repository_id": 35204235,
     "original_repository_sha": "496e923cac94f690f0da37617607f1ffe269763e",

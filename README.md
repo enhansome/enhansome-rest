@@ -107,14 +107,14 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [RestSharp](https://github.com/restsharp/RestSharp) ⭐ 9,823 | 🐛 39 | 🌐 C# | 📅 2026-06-02 - Simple REST and HTTP API client for .NET
 * [Refit](https://github.com/reactiveui/refit) ⭐ 9,561 | 🐛 1 | 🌐 C# | 📅 2026-08-18 - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) ⭐ 1,116 | 🐛 15 | 🌐 C# | 📅 2023-12-10 - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) ⭐ 208 | 🐛 16 | 🌐 C# | 📅 2026-07-17 - Simpliest Fluent REST client for .NET.
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) ⭐ 208 | 🐛 17 | 🌐 C# | 📅 2026-08-24 - Simpliest Fluent REST client for .NET.
 * [Apizr](https://github.com/Respawnsive/Apizr) ⭐ 175 | 🐛 5 | 🌐 C# | 📅 2026-08-24 - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 * [RestLess](https://github.com/letsar/RestLess) ⭐ 112 | 🐛 8 | 🌐 C# | 📅 2022-12-07 - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 
 ### Generators
 
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,686 | 🐛 5,715 | 🌐 Java | 📅 2026-08-24 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,686 | 🐛 5,714 | 🌐 Java | 📅 2026-08-24 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## Servers
 
@@ -150,7 +150,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 #### Symfony2
 
-* [API Platform](https://github.com/api-platform/api-platform) ⭐ 9,179 | 🐛 1 | 🌐 PHP | 📅 2026-08-24 - Specialize Symfony edition for the creation of hypermedia REST APIs.
+* [API Platform](https://github.com/api-platform/api-platform) ⭐ 9,178 | 🐛 1 | 🌐 PHP | 📅 2026-08-24 - Specialize Symfony edition for the creation of hypermedia REST APIs.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ⭐ 2,795 | 🐛 159 | 🌐 PHP | 📅 2026-02-10 - Bundle handling view, routing, error handling, etc. for your REST API.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) ⭐ 2,572 | 🐛 269 | 🌐 PHP | 📅 2026-08-16 - Build a REST API which follow Hydra/JSON-LD specification.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ⭐ 2,363 | 🐛 60 | 🌐 PHP | 📅 2026-08-24 - Generate documentation for your REST API from annotations.
@@ -166,7 +166,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Python
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,813 | 🐛 76 | 🌐 Python | 📅 2026-08-19 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,815 | 🐛 76 | 🌐 Python | 📅 2026-08-19 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 * [Falcon](https://github.com/falconry/falcon) ⭐ 9,794 | 🐛 161 | 🌐 Python | 📅 2026-07-31 - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [apistar](https://github.com/encode/apistar) ⚠️ Archived - A smart Web API framework, designed for Python 3.
 * [sandman](https://github.com/jeffknupp/sandman) ⭐ 2,289 | 🐛 37 | 🌐 Python | 📅 2021-12-25 - Automated REST APIs for existing database-driven systems.
@@ -214,12 +214,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying
 
-* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 39,959 | 🐛 863 | 🌐 TypeScript | 📅 2026-08-24 - Cross-platform HTTP and GraphQL Client
+* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 39,959 | 🐛 862 | 🌐 TypeScript | 📅 2026-08-24 - Cross-platform HTTP and GraphQL Client
 * [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,446 | 🐛 332 | 🌐 Python | 📅 2024-12-17 - Command line HTTP client, far more dev-friendly than `curl`.
 * [jq](https://github.com/stedolan/jq) ⭐ 35,478 | 🐛 467 | 🌐 C | 📅 2026-08-23 - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [HTTP Prompt](https://github.com/eliangcs/http-prompt) ⭐ 9,108 | 🐛 56 | 🌐 Python | 📅 2024-05-21 - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 * [rest-assured](https://github.com/rest-assured/rest-assured) ⭐ 7,137 | 🐛 593 | 🌐 Java | 📅 2026-07-22 - Java DSL for easy testing of REST services.
-* [Schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,556 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,556 | 🐛 9 | 🌐 Python | 📅 2026-08-24 - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 * [resty](https://github.com/micha/resty) ⭐ 2,653 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 - Little command line REST client that you can use in pipelines (bash or zsh).
 * [Step CI](https://github.com/stepci/stepci) ⭐ 1,868 | 🐛 73 | 🌐 TypeScript | 📅 2024-08-03 - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 * [Http-console](https://github.com/cloudhead/http-console) ⭐ 1,386 | 🐛 14 | 🌐 JavaScript | 📅 2021-06-07 - Command line interface for HTTP that let you *speak HTTP like a local*
@@ -286,7 +286,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## SaaS Tools
 
-* [Nango](https://github.com/NangoHQ/nango) ⭐ 11,573 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-24 - Native integrations framework to consume REST APIs (open-source).
+* [Nango](https://github.com/NangoHQ/nango) ⭐ 11,576 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-24 - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
