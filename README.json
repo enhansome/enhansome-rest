@@ -15,7 +15,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23304
+            "stars": 23305
           }
         },
         {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23321
+                "stars": 23323
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-08T09:28:35Z",
                 "owner": "zalando",
                 "repo": "restful-api-guidelines",
-                "stars": 3228
+                "stars": 3230
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-05-15T12:03:58Z",
                 "owner": "kriswallsmith",
                 "repo": "Buzz",
-                "stars": 1917
+                "stars": 1916
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2026-07-26T00:45:12Z",
                 "owner": "go-resty",
                 "repo": "resty",
-                "stars": 11762
+                "stars": 11765
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-18T14:53:36Z",
                 "owner": "reactiveui",
                 "repo": "refit",
-                "stars": 9559
+                "stars": 9561
               }
             },
             {
@@ -452,7 +452,7 @@
                 "archived": false,
                 "id": 269575748,
                 "language": "C#",
-                "last_commit": "2026-03-16T13:24:58Z",
+                "last_commit": "2026-08-24T13:40:30Z",
                 "owner": "Respawnsive",
                 "repo": "Apizr",
                 "stars": 175
@@ -477,6 +477,28 @@
           "description": null,
           "node_type": "group",
           "title": ".NET Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openapi-generator",
+              "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133134007,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:21:35Z",
+                "owner": "OpenAPITools",
+                "repo": "openapi-generator",
+                "stars": 26686
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generators"
         }
       ],
       "title": "Clients"
@@ -495,10 +517,10 @@
                 "archived": false,
                 "id": 20787122,
                 "language": "Haskell",
-                "last_commit": "2026-08-22T08:28:29Z",
+                "last_commit": "2026-08-23T17:26:42Z",
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27620
+                "stars": 27623
               }
             },
             {
@@ -532,7 +554,7 @@
                 "archived": false,
                 "id": 1661758,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T18:08:05Z",
+                "last_commit": "2026-08-24T13:12:20Z",
                 "owner": "restify",
                 "repo": "node-restify",
                 "stars": 10685
@@ -692,7 +714,7 @@
                 "last_commit": "2020-01-20T17:32:46Z",
                 "owner": "zfcampus",
                 "repo": "zf-apigility-skeleton",
-                "stars": 441
+                "stars": 440
               }
             },
             {
@@ -766,10 +788,10 @@
                     "archived": false,
                     "id": 31790438,
                     "language": "PHP",
-                    "last_commit": "2026-08-20T08:14:32Z",
+                    "last_commit": "2026-08-24T06:31:59Z",
                     "owner": "api-platform",
                     "repo": "api-platform",
-                    "stars": 9178
+                    "stars": 9179
                   }
                 },
                 {
@@ -784,7 +806,7 @@
                     "last_commit": "2026-02-10T02:37:33Z",
                     "owner": "FriendsOfSymfony",
                     "repo": "FOSRestBundle",
-                    "stars": 2796
+                    "stars": 2795
                   }
                 },
                 {
@@ -811,7 +833,7 @@
                     "archived": false,
                     "id": 4006755,
                     "language": "PHP",
-                    "last_commit": "2026-08-17T03:55:35Z",
+                    "last_commit": "2026-08-24T03:56:16Z",
                     "owner": "nelmio",
                     "repo": "NelmioApiDocBundle",
                     "stars": 2363
@@ -891,6 +913,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pode",
+              "description": "Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112536545,
+                "language": "PowerShell",
+                "last_commit": "2026-08-23T15:40:59Z",
+                "owner": "Badgerati",
+                "repo": "Pode",
+                "stars": 1055
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PowerShell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "FastAPI",
               "description": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.",
               "children": [],
@@ -901,7 +945,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101782
+                "stars": 101813
               }
             },
             {
@@ -1122,7 +1166,7 @@
                 "archived": false,
                 "id": 1272129,
                 "language": "Java",
-                "last_commit": "2026-08-23T01:08:06Z",
+                "last_commit": "2026-08-23T17:54:45Z",
                 "owner": "dropwizard",
                 "repo": "dropwizard",
                 "stars": 8576
@@ -1162,6 +1206,50 @@
           "description": null,
           "node_type": "group",
           "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chaos",
+              "description": "A lightweight framework for writing REST services in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10941345,
+                "language": "Scala",
+                "last_commit": "2019-04-15T12:17:35Z",
+                "owner": "d2iq-archive",
+                "repo": "chaos",
+                "stars": 249
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rest for Haskell",
+              "description": "This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18441357,
+                "language": "Haskell",
+                "last_commit": "2018-10-02T17:26:16Z",
+                "owner": "silkapp",
+                "repo": "rest",
+                "stars": 386
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
         }
       ],
       "title": "Servers"
@@ -1180,10 +1268,10 @@
                 "archived": false,
                 "id": 56899284,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T10:04:23Z",
+                "last_commit": "2026-08-24T09:56:05Z",
                 "owner": "Kong",
                 "repo": "insomnia",
-                "stars": 39957
+                "stars": 39959
               }
             },
             {
@@ -1198,7 +1286,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38447
+                "stars": 38446
               }
             },
             {
@@ -1210,10 +1298,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-23T14:28:11Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35474
+                "stars": 35478
               }
             },
             {
@@ -1255,10 +1343,10 @@
                 "archived": false,
                 "id": 203157084,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:35:33Z",
+                "last_commit": "2026-08-24T13:35:13Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
-                "stars": 3554
+                "stars": 3556
               }
             },
             {
@@ -1426,7 +1514,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36038
+            "stars": 36037
           }
         },
         {
@@ -1441,7 +1529,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25884
+            "stars": 25886
           }
         },
         {
@@ -1492,7 +1580,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44026
+            "stars": 44029
           }
         },
         {
@@ -1504,10 +1592,10 @@
             "archived": false,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-23T14:12:09Z",
+            "last_commit": "2026-08-24T12:00:25Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10797
+            "stars": 10798
           }
         },
         {
@@ -1564,7 +1652,7 @@
             "archived": false,
             "id": 20717348,
             "language": "Java",
-            "last_commit": "2026-08-23T03:03:52Z",
+            "last_commit": "2026-08-24T04:28:48Z",
             "owner": "wso2",
             "repo": "product-apim",
             "stars": 1021
@@ -1588,7 +1676,7 @@
             "last_commit": "2026-08-09T12:00:10Z",
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26909
+            "stars": 26911
           }
         },
         {
@@ -1603,7 +1691,7 @@
             "last_commit": "2026-08-18T13:51:20Z",
             "owner": "swagger-api",
             "repo": "swagger-codegen",
-            "stars": 17778
+            "stars": 17777
           }
         },
         {
@@ -1641,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:36:54.602Z",
+    "last_updated": "2026-08-24T14:00:14.004Z",
     "original_repository": "marmelab/awesome-rest",
     "original_repository_id": 35204235,
     "original_repository_sha": "496e923cac94f690f0da37617607f1ffe269763e",
