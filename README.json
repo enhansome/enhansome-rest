@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23328
+                "stars": 23330
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-08T09:28:35Z",
                 "owner": "zalando",
                 "repo": "restful-api-guidelines",
-                "stars": 3236
+                "stars": 3237
               }
             },
             {
@@ -489,10 +489,10 @@
                 "archived": false,
                 "id": 133134007,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:07:23Z",
+                "last_commit": "2026-08-27T23:13:39Z",
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26686
+                "stars": 26688
               }
             }
           ],
@@ -920,7 +920,7 @@
                 "archived": false,
                 "id": 112536545,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T22:55:01Z",
+                "last_commit": "2026-08-27T22:27:26Z",
                 "owner": "Badgerati",
                 "repo": "Pode",
                 "stars": 1054
@@ -945,7 +945,7 @@
                 "last_commit": "2026-08-26T17:54:56Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101874
+                "stars": 101887
               }
             },
             {
@@ -1181,7 +1181,7 @@
                 "archived": false,
                 "id": 26628954,
                 "language": "Java",
-                "last_commit": "2026-08-10T16:25:17Z",
+                "last_commit": "2026-08-27T16:23:03Z",
                 "owner": "vert-x3",
                 "repo": "vertx-web",
                 "stars": 1150
@@ -1286,7 +1286,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
+                "stars": 38464
               }
             },
             {
@@ -1301,7 +1301,7 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35488
+                "stars": 35495
               }
             },
             {
@@ -1343,10 +1343,10 @@
                 "archived": false,
                 "id": 203157084,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:12:36Z",
+                "last_commit": "2026-08-27T20:28:38Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
-                "stars": 3564
+                "stars": 3563
               }
             },
             {
@@ -1443,7 +1443,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75692
+                "stars": 75696
               }
             },
             {
@@ -1529,7 +1529,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25889
+            "stars": 25888
           }
         },
         {
@@ -1580,7 +1580,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44048
+            "stars": 44049
           }
         },
         {
@@ -1592,7 +1592,7 @@
             "archived": false,
             "id": 19537979,
             "language": "Go",
-            "last_commit": "2026-08-27T11:32:00Z",
+            "last_commit": "2026-08-27T21:01:11Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
             "stars": 10807
@@ -1610,7 +1610,7 @@
             "last_commit": "2026-08-26T15:49:15Z",
             "owner": "luraproject",
             "repo": "lura",
-            "stars": 6792
+            "stars": 6793
           }
         },
         {
@@ -1673,10 +1673,10 @@
             "archived": false,
             "id": 63226588,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:33:09Z",
+            "last_commit": "2026-08-27T14:43:52Z",
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26915
+            "stars": 26914
           }
         },
         {
@@ -1691,7 +1691,7 @@
             "last_commit": "2026-08-18T13:51:20Z",
             "owner": "swagger-api",
             "repo": "swagger-codegen",
-            "stars": 17780
+            "stars": 17781
           }
         },
         {
@@ -1729,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:33.440Z",
+    "last_updated": "2026-08-27T23:46:34.883Z",
     "original_repository_info": {
       "archived": false,
       "id": 35204235,
