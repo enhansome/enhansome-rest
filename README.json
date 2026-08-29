@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+            "homepage": null,
             "id": 96641209,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-21T07:59:55Z",
+            "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23305
+            "stars": 23306,
+            "topics": [
+              "api",
+              "jwt",
+              "oauth2",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP API design guide extracted from work on the Heroku Platform API",
+            "homepage": "https://geemus.gitbooks.io/http-api-design/content/en/",
             "id": 19542809,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-16T20:27:54Z",
+            "open_issues": 30,
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13684
+            "stars": 13684,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -44,12 +59,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft REST API Guidelines",
+                "homepage": null,
                 "id": 63188650,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
+                "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23331
+                "stars": 23332,
+                "topics": [
+                  "api",
+                  "guidelines",
+                  "rest-api",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -60,12 +85,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A model set of guidelines for RESTful APIs and Events, created by Zalando",
+                "homepage": "https://opensource.zalando.com/restful-api-guidelines/",
                 "id": 55240856,
                 "language": "CSS",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-08T09:28:35Z",
+                "open_issues": 15,
                 "owner": "zalando",
                 "repo": "restful-api-guidelines",
-                "stars": 3238
+                "stars": 3238,
+                "topics": [
+                  "api",
+                  "documentation",
+                  "guidelines",
+                  "rest-api",
+                  "restful",
+                  "restful-api",
+                  "zalando"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -76,12 +114,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "adidas group API design guidelines",
+                "homepage": "https://adidas.gitbook.io/api-guidelines/",
                 "id": 79345219,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-19T13:46:58Z",
+                "open_issues": 1,
                 "owner": "adidas",
                 "repo": "api-guidelines",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "adidas",
+                  "adidas-group",
+                  "api",
+                  "architecture",
+                  "async-api",
+                  "asynchronous",
+                  "guidelines",
+                  "http",
+                  "kafka",
+                  "openapi",
+                  "protocol",
+                  "rest",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -92,12 +149,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haufe API Style Guide",
+                "homepage": "https://haufe-lexware.gitbooks.io/haufe-api-styleguide/content/",
                 "id": 38999904,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-20T06:25:08Z",
+                "open_issues": 21,
                 "owner": "Haufe-Lexware",
                 "repo": "api-style-guide",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "api",
+                  "hypermedia",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -108,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guidelines for designing REST APIs at Cisco",
+                "homepage": "https://apistyleguide.cisco.com/",
                 "id": 39962121,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-11T20:06:54Z",
+                "open_issues": 1,
                 "owner": "CiscoDevNet",
                 "repo": "api-design-guide",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -137,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP's lightweight HTTP client",
+                "homepage": null,
                 "id": 488520,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-15T12:03:58Z",
+                "open_issues": 9,
                 "owner": "kriswallsmith",
                 "repo": "Buzz",
-                "stars": 1916
+                "stars": 1916,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -153,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unirest in PHP: Simplified, lightweight HTTP client library.",
+                "homepage": "http://unirest.io/php",
                 "id": 1474568,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-14T22:43:11Z",
+                "open_issues": 41,
                 "owner": "Kong",
                 "repo": "unirest-php",
-                "stars": 1281
+                "stars": 1281,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -176,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AngularJS service to handle Rest API Restful Resources properly and easily",
+                "homepage": null,
                 "id": 9210604,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-05T12:55:23Z",
+                "open_issues": 253,
                 "owner": "mgonto",
                 "repo": "restangular",
-                "stars": 7790
+                "stars": 7790,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -192,12 +278,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.",
+                "homepage": null,
                 "id": 29588481,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-04T07:29:39Z",
+                "open_issues": 23,
                 "owner": "marmelab",
                 "repo": "restful.js",
-                "stars": 962
+                "stars": 962,
+                "topics": [
+                  "frontend",
+                  "http-client",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -208,12 +303,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hypermedia API/HATEOAS Client for Node.js and the Browser",
+                "homepage": null,
                 "id": 13181035,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:15:41Z",
+                "open_issues": 28,
                 "owner": "traverson",
                 "repo": "traverson",
-                "stars": 461
+                "stars": 461,
+                "topics": [
+                  "hypermedia",
+                  "hypermedia-client",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -224,12 +328,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Template-driven generator of clients for APIs described by a RAML spec",
+                "homepage": null,
                 "id": 22980471,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-29T02:57:29Z",
+                "open_issues": 9,
                 "owner": "mulesoft-labs",
                 "repo": "raml-client-generator",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "raml",
+                  "raml-codegen",
+                  "raml-tooling"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -247,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST client library for node.js",
+                "homepage": null,
                 "id": 385260,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-10T11:40:53Z",
+                "open_issues": 102,
                 "owner": "danwrong",
                 "repo": "restler",
-                "stars": 1977
+                "stars": 1977,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -263,12 +381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unirest in Node.js: Simplified, lightweight HTTP client library.",
+                "homepage": "http://unirest.io/nodejs",
                 "id": 13663191,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-14T22:43:00Z",
+                "open_issues": 43,
                 "owner": "Kong",
                 "repo": "unirest-nodejs",
-                "stars": 954
+                "stars": 954,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -286,12 +409,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tada: Makes http fun again!",
+                "homepage": null,
                 "id": 37997,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-20T21:09:15Z",
+                "open_issues": 47,
                 "owner": "jnunemaker",
                 "repo": "httparty",
-                "stars": 5895
+                "stars": 5895,
+                "topics": [
+                  "http",
+                  "httparty",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -302,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+                "homepage": "https://rubydoc.info/github/rest-client/rest-client/master",
                 "id": 404319,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-05-19T10:18:13Z",
+                "open_issues": 140,
                 "owner": "rest-client",
                 "repo": "rest-client",
-                "stars": 5212
+                "stars": 5212,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -318,12 +455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Usable, fast, simple HTTP 1.1 for Ruby",
+                "homepage": null,
                 "id": 349203,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:54:06Z",
+                "open_issues": 19,
                 "owner": "excon",
                 "repo": "excon",
-                "stars": 1173
+                "stars": 1173,
+                "topics": [
+                  "excon",
+                  "http",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -334,12 +480,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact with REST services in an ActiveRecord-like manner",
+                "homepage": null,
                 "id": 25164099,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-11-04T01:35:03Z",
+                "open_issues": 17,
                 "owner": "balvig",
                 "repo": "spyke",
-                "stars": 903
+                "stars": 903,
+                "topics": [
+                  "activerecord",
+                  "api",
+                  "faraday",
+                  "json",
+                  "rest",
+                  "rest-api",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -350,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto generate Ruby Client from Raml",
+                "homepage": null,
                 "id": 52413932,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2016-02-24T10:10:48Z",
+                "open_issues": 0,
                 "owner": "zlx",
                 "repo": "raml-ruby-client-generator",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -373,12 +537,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTTP, REST, and SSE client library for Go",
+                "homepage": "https://resty.dev",
                 "id": 41561105,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-26T00:45:12Z",
+                "open_issues": 23,
                 "owner": "go-resty",
                 "repo": "resty",
-                "stars": 11768
+                "stars": 11768,
+                "topics": [
+                  "backoff",
+                  "circuit-breaker",
+                  "curl-command",
+                  "digest-authentication",
+                  "go",
+                  "go-library",
+                  "go-resty",
+                  "golang",
+                  "golang-library",
+                  "hacktoberfest",
+                  "http-client",
+                  "http-trace",
+                  "load-balancer",
+                  "middleware",
+                  "redirects",
+                  "rest-client",
+                  "retry",
+                  "service-discovery",
+                  "srv-record",
+                  "sse-client"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -389,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily consume REST APIs with Go (golang)",
+                "homepage": null,
                 "id": 21124171,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-18T01:03:37Z",
+                "open_issues": 8,
                 "owner": "bndr",
                 "repo": "gopencils",
-                "stars": 453
+                "stars": 453,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -412,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple REST and HTTP API Client for .NET",
+                "homepage": "https://restsharp.dev",
                 "id": 374228,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T14:48:54Z",
+                "open_issues": 39,
                 "owner": "restsharp",
                 "repo": "RestSharp",
-                "stars": 9825
+                "stars": 9825,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -428,12 +628,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",
+                "homepage": "https://reactiveui.github.io/refit/",
                 "id": 11591313,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T12:11:16Z",
+                "open_issues": 3,
                 "owner": "reactiveui",
                 "repo": "refit",
-                "stars": 9563
+                "stars": 9563,
+                "topics": [
+                  "c-sharp",
+                  "dotnet",
+                  "dotnet-core",
+                  "http",
+                  "json",
+                  "xamarin",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -444,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit",
+                "homepage": null,
                 "id": 35160657,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-12-10T14:55:20Z",
+                "open_issues": 15,
                 "owner": "canton7",
                 "repo": "RestEase",
-                "stars": 1116
+                "stars": 1116,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -460,12 +678,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simpliest Fluent REST client for .NET",
+                "homepage": null,
                 "id": 109750554,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:27:07Z",
+                "open_issues": 16,
                 "owner": "jgiacomini",
                 "repo": "Tiny.RestClient",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "csharp",
+                  "csharp-library",
+                  "dotnet",
+                  "dotnet-core",
+                  "httpclient",
+                  "rest-client",
+                  "uwp",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -476,12 +708,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Refit based web api client management, but resilient (retry, connectivity, cache, auth, log, priority, etc...)",
+                "homepage": "https://www.apizr.net",
                 "id": 269575748,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:08:06Z",
+                "open_issues": 5,
                 "owner": "Respawnsive",
                 "repo": "Apizr",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "akavache",
+                  "automapper",
+                  "dotnet",
+                  "fusillade",
+                  "httptracer",
+                  "mediatr",
+                  "monkeycache",
+                  "optional",
+                  "polly",
+                  "refit"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -492,12 +740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The automatic type-safe-reflectionless REST API client library for .Net Standard",
+                "homepage": null,
                 "id": 100587747,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-07T19:40:34Z",
+                "open_issues": 8,
                 "owner": "letsar",
                 "repo": "RestLess",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -515,12 +768,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+                "homepage": "https://openapi-generator.tech",
                 "id": 133134007,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:15:32Z",
+                "open_issues": 5710,
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26695
+                "stars": 26696,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-server",
+                  "generator",
+                  "hacktoberfest",
+                  "openapi",
+                  "openapi-generator",
+                  "openapi3",
+                  "rest",
+                  "rest-api",
+                  "rest-client",
+                  "restful-api",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -544,12 +816,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API for any Postgres database",
+                "homepage": "https://postgrest.org",
                 "id": 20787122,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2026-08-27T00:40:04Z",
+                "open_issues": 396,
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27632
+                "stars": 27633,
+                "topics": [
+                  "api",
+                  "automatic-api",
+                  "database",
+                  "haskell",
+                  "http",
+                  "pg",
+                  "pgsql",
+                  "postgres",
+                  "postgresql",
+                  "postgrest",
+                  "rest",
+                  "server",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -560,12 +851,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server",
+                "homepage": "https://www.prestd.com",
                 "id": 74436942,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:31:10Z",
+                "open_issues": 153,
                 "owner": "prest",
                 "repo": "prest",
-                "stars": 4611
+                "stars": 4611,
+                "topics": [
+                  "api",
+                  "baas",
+                  "backend",
+                  "crud",
+                  "database",
+                  "docker",
+                  "golang",
+                  "instant-api",
+                  "jwt",
+                  "low-code",
+                  "mcp",
+                  "microservice",
+                  "model-context-protocol",
+                  "openapi",
+                  "postgres",
+                  "postgresql",
+                  "rest-api",
+                  "self-hosted",
+                  "sql",
+                  "timescaledb"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -583,12 +900,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The future of Node.js REST development",
+                "homepage": "http://restify.com",
                 "id": 1661758,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:49:47Z",
+                "open_issues": 130,
                 "owner": "restify",
                 "repo": "node-restify",
-                "stars": 10686
+                "stars": 10686,
+                "topics": [
+                  "rest-api",
+                  "restify",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -599,12 +925,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NestJs CRUD for RESTful APIs",
+                "homepage": "https://github.com/nestjsx/crud/wiki",
                 "id": 133998889,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-16T21:43:39Z",
+                "open_issues": 290,
                 "owner": "nestjsx",
                 "repo": "crud",
-                "stars": 4324
+                "stars": 4324,
+                "topics": [
+                  "crud",
+                  "crud-generator",
+                  "nest",
+                  "nestjs",
+                  "restful-api",
+                  "typeorm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -615,12 +954,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 A RESTful API generator for Node.js",
+                "homepage": "https://resthapi.com",
                 "id": 72318291,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-26T17:51:24Z",
+                "open_issues": 76,
                 "owner": "JKHeadley",
                 "repo": "rest-hapi",
-                "stars": 1181
+                "stars": 1181,
+                "topics": [
+                  "api",
+                  "audit-log",
+                  "crud",
+                  "crud-api",
+                  "crud-generator",
+                  "documentation",
+                  "hapi",
+                  "hapi-plugin",
+                  "hapi-server",
+                  "joi",
+                  "joi-validation",
+                  "mongodb",
+                  "mongoose",
+                  "nosql",
+                  "relational",
+                  "rest",
+                  "rest-api",
+                  "swagger",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -631,12 +995,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API creation middleware with an admin interface",
+                "homepage": null,
                 "id": 58081483,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T14:14:39Z",
+                "open_issues": 22,
                 "owner": "thomas4019",
                 "repo": "expressa",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "apis",
+                  "hacktoberfest",
+                  "middleware",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -647,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an isomorphic Resource engine for JavaScript",
+                "homepage": "http://github.com/flatiron/resourceful",
                 "id": 2352769,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2015-01-12T22:05:14Z",
+                "open_issues": 38,
                 "owner": "flatiron",
                 "repo": "resourceful",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -663,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mongoose Express Rest Service ",
+                "homepage": null,
                 "id": 3566618,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-06-21T20:56:17Z",
+                "open_issues": 14,
                 "owner": "jspears",
                 "repo": "mers",
-                "stars": 343
+                "stars": 343,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -686,12 +1070,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-Hosted API Management for Builders",
+                "homepage": "https://www.fusio-project.org",
                 "id": 39904377,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T07:45:04Z",
+                "open_issues": 170,
                 "owner": "apioo",
                 "repo": "fusio",
-                "stars": 2115
+                "stars": 2115,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "api",
+                  "api-gateway",
+                  "api-management",
+                  "api-manager",
+                  "backend",
+                  "javascript",
+                  "mcp-server",
+                  "microservice",
+                  "openapi",
+                  "php",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -702,12 +1105,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Content Negotiation tools for PHP.",
+                "homepage": "https://williamdurand.fr/Negotiation/",
                 "id": 7692851,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-08-03T17:52:44Z",
+                "open_issues": 11,
                 "owner": "willdurand",
                 "repo": "Negotiation",
-                "stars": 1419
+                "stars": 1419,
+                "topics": [
+                  "content-negotiation",
+                  "negotiation",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -718,12 +1130,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.",
+                "homepage": "http://luracast.com/products/restler/",
                 "id": 1588366,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-22T00:40:47Z",
+                "open_issues": 33,
                 "owner": "Luracast",
                 "repo": "Restler",
-                "stars": 1382
+                "stars": 1382,
+                "topics": [
+                  "async",
+                  "composer",
+                  "framework",
+                  "html-format",
+                  "json-format",
+                  "jsonp",
+                  "openapi",
+                  "openapi3",
+                  "php",
+                  "php-fpm",
+                  "phpdoc-comments",
+                  "reactphp",
+                  "rest-api",
+                  "restler",
+                  "swoole"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -734,12 +1167,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP library to support implementing representations for HATEOAS REST web services.",
+                "homepage": "https://williamdurand.fr/Hateoas/",
                 "id": 5441790,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-10T10:11:02Z",
+                "open_issues": 33,
                 "owner": "willdurand",
                 "repo": "Hateoas",
-                "stars": 1042
+                "stars": 1042,
+                "topics": [
+                  "hateoas",
+                  "json",
+                  "php",
+                  "rest",
+                  "serializer"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -750,12 +1194,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 12139906,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-01-20T17:32:46Z",
+                "open_issues": 20,
                 "owner": "zfcampus",
                 "repo": "zf-apigility-skeleton",
-                "stars": 440
+                "stars": 440,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -766,12 +1215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST-like PHP micro-framework.",
+                "homepage": null,
                 "id": 26232557,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2020-07-28T12:07:38Z",
+                "open_issues": 1,
                 "owner": "phprest",
                 "repo": "phprest",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -782,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "application/hal builder / formatter for PHP 5.4+",
+                "homepage": null,
                 "id": 3899458,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-05T12:42:47Z",
+                "open_issues": 2,
                 "owner": "blongden",
                 "repo": "hal",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -798,12 +1257,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A micro web application providing a REST API on top of any relational database, using Silex and Doctrine DBAL",
+                "homepage": "http://marmelab.com/blog/2015/01/05/introducing-microrest-raml-api-in-silex.html",
                 "id": 28030704,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-04-17T11:30:05Z",
+                "open_issues": 8,
                 "owner": "marmelab",
                 "repo": "microrest.php",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -814,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly and easily expose Doctrine entities as REST resource endpoints with the use of simple configuration with annotations, yaml, json or a PHP array.",
+                "homepage": "http://leedavis81.github.io/drest",
                 "id": 8092270,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2017-05-11T10:05:01Z",
+                "open_issues": 3,
                 "owner": "leedavis81",
                 "repo": "drest",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -832,12 +1301,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.",
+                    "homepage": "https://api-platform.com",
                     "id": 31790438,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T06:31:59Z",
+                    "open_issues": 4,
                     "owner": "api-platform",
                     "repo": "api-platform",
-                    "stars": 9180
+                    "stars": 9180,
+                    "topics": [
+                      "api",
+                      "api-platform",
+                      "framework",
+                      "frankenphp",
+                      "graphql",
+                      "graphql-server",
+                      "hydra-api",
+                      "hypermedia-api",
+                      "hypermedia-client",
+                      "jamstack",
+                      "json-ld",
+                      "mercure",
+                      "nextjs",
+                      "openapi",
+                      "php",
+                      "react",
+                      "rest",
+                      "symfony",
+                      "symfony-bundle",
+                      "vulcain"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -848,12 +1343,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This Bundle provides various tools to rapidly develop RESTful API's with Symfony",
+                    "homepage": "http://symfony.com/doc/master/bundles/FOSRestBundle/index.html",
                     "id": 1509011,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T02:37:33Z",
+                    "open_issues": 159,
                     "owner": "FriendsOfSymfony",
                     "repo": "FOSRestBundle",
-                    "stars": 2795
+                    "stars": 2795,
+                    "topics": [
+                      "php",
+                      "rest",
+                      "rest-api",
+                      "symfony",
+                      "symfony-bundle"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -864,12 +1370,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes",
+                    "homepage": "https://api-platform.com",
                     "id": 29501260,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-16T22:00:56Z",
+                    "open_issues": 272,
                     "owner": "api-platform",
                     "repo": "core",
-                    "stars": 2573
+                    "stars": 2573,
+                    "topics": [
+                      "api",
+                      "api-platform",
+                      "graphql",
+                      "hacktoberfest",
+                      "hal",
+                      "hydra-api",
+                      "hypermedia",
+                      "json-ld",
+                      "jsonapi",
+                      "php",
+                      "rest",
+                      "swagger",
+                      "symfony",
+                      "symfony-bundle"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -880,12 +1406,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generates documentation for your REST API from attributes",
+                    "homepage": null,
                     "id": 4006755,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T03:56:16Z",
+                    "open_issues": 60,
                     "owner": "nelmio",
                     "repo": "NelmioApiDocBundle",
-                    "stars": 2366
+                    "stars": 2366,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "bundle",
+                      "openapi",
+                      "php",
+                      "redoc",
+                      "swagger",
+                      "swagger-php",
+                      "symfony",
+                      "symfony-bundle"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -896,12 +1438,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Fork from symfony-standard edition with additional rest features.",
+                    "homepage": null,
                     "id": 9292738,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2017-02-04T20:42:24Z",
+                    "open_issues": 15,
                     "owner": "gimler",
                     "repo": "symfony-rest-edition",
-                    "stars": 626
+                    "stars": 626,
+                    "topics": [
+                      "composer",
+                      "php",
+                      "symfony",
+                      "symfony-application"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -912,12 +1464,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integration of the Hateoas library into Symfony. ",
+                    "homepage": null,
                     "id": 12123897,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T20:46:36Z",
+                    "open_issues": 11,
                     "owner": "willdurand",
                     "repo": "BazingaHateoasBundle",
-                    "stars": 297
+                    "stars": 297,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -928,12 +1485,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This bundle provides REST endpoints for Doctrine entities.",
+                    "homepage": "http://stanlemon.net/2014/10/02/lemonrestbundle-for-symfony/",
                     "id": 24701250,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2022-03-23T01:01:49Z",
+                    "open_issues": 0,
                     "owner": "stanlemon",
                     "repo": "rest-bundle",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 },
@@ -944,12 +1506,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Generate a client-side admin backend for Symfony2 applications, powered by ng-admin and LemonRestBundle",
+                    "homepage": null,
                     "id": 30864971,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2019-05-04T07:39:23Z",
+                    "open_issues": 7,
                     "owner": "marmelab",
                     "repo": "NgAdminGeneratorBundle",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:18.056Z"
                 }
@@ -972,12 +1539,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers",
+                "homepage": "https://badgerati.github.io/Pode",
                 "id": 112536545,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:27:26Z",
+                "open_issues": 86,
                 "owner": "Badgerati",
                 "repo": "Pode",
-                "stars": 1055
+                "stars": 1055,
+                "topics": [
+                  "active-directory",
+                  "authentication",
+                  "cross-platform",
+                  "docker",
+                  "framework",
+                  "https",
+                  "openapi",
+                  "powershell",
+                  "powershell-core",
+                  "raspberry-pi",
+                  "rest",
+                  "server",
+                  "serverless",
+                  "session",
+                  "swagger",
+                  "unix",
+                  "web",
+                  "webserver",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -995,12 +1587,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+                "homepage": "https://fastapi.tiangolo.com/",
                 "id": 160919119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:54:56Z",
+                "open_issues": 79,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101910
+                "stars": 101913,
+                "topics": [
+                  "api",
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "framework",
+                  "json",
+                  "json-schema",
+                  "openapi",
+                  "openapi3",
+                  "pydantic",
+                  "python",
+                  "python-types",
+                  "python3",
+                  "redoc",
+                  "rest",
+                  "starlette",
+                  "swagger",
+                  "swagger-ui",
+                  "uvicorn",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1011,12 +1629,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.",
+                "homepage": "https://falcon.readthedocs.io",
                 "id": 7040500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T07:09:03Z",
+                "open_issues": 161,
                 "owner": "falconry",
                 "repo": "falcon",
-                "stars": 9795
+                "stars": 9795,
+                "topics": [
+                  "api",
+                  "api-rest",
+                  "asgi",
+                  "http",
+                  "microservices",
+                  "python",
+                  "rest",
+                  "web",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1027,12 +1660,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Web API toolkit. 🛠",
+                "homepage": "https://docs.apistar.com",
                 "id": 85328233,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-02-24T05:00:58Z",
+                "open_issues": 30,
                 "owner": "encode",
                 "repo": "apistar",
-                "stars": 5543
+                "stars": 5543,
+                "topics": [
+                  "api",
+                  "python",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1043,12 +1685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sandman \"makes things REST\".",
+                "homepage": null,
                 "id": 11552213,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-25T11:42:58Z",
+                "open_issues": 37,
                 "owner": "jeffknupp",
                 "repo": "sandman",
-                "stars": 2289
+                "stars": 2289,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1059,12 +1706,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESB, SOA, REST, APIs and Cloud Integrations in Python",
+                "homepage": "https://zato.io",
                 "id": 2012231,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T18:29:53Z",
+                "open_issues": 0,
                 "owner": "zatosource",
                 "repo": "zato",
-                "stars": 1013
+                "stars": 1013,
+                "topics": [
+                  "aerospace",
+                  "airport",
+                  "api",
+                  "api-gateway",
+                  "api-server",
+                  "automation-framework",
+                  "defense",
+                  "enterprise",
+                  "enterprise-service-bus",
+                  "esb",
+                  "fhir",
+                  "healthcare",
+                  "hl7",
+                  "interoperability",
+                  "ipaas",
+                  "low-code",
+                  "orchestration-framework",
+                  "python",
+                  "soa",
+                  "telecommunications"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1075,12 +1748,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine",
+                "homepage": "http://potion.readthedocs.io",
                 "id": 24049454,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-23T17:00:39Z",
+                "open_issues": 51,
                 "owner": "biosustain",
                 "repo": "potion",
-                "stars": 487
+                "stars": 487,
+                "topics": [
+                  "flask",
+                  "flask-extensions",
+                  "mongoengine",
+                  "peewee",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1098,12 +1782,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "package for building REST-style Web Services using Go",
+                "homepage": null,
                 "id": 6701057,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-05T19:48:52Z",
+                "open_issues": 2,
                 "owner": "emicklei",
                 "repo": "go-restful",
-                "stars": 5116
+                "stars": 5116,
+                "topics": [
+                  "customizable",
+                  "go",
+                  "openapi",
+                  "rest",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1114,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick and easy way to setup a RESTful JSON API",
+                "homepage": "https://ant0ine.github.io/go-json-rest/",
                 "id": 8282363,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-01-23T18:47:50Z",
+                "open_issues": 45,
                 "owner": "ant0ine",
                 "repo": "go-json-rest",
-                "stars": 3486
+                "stars": 3486,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1130,12 +1830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rest for go",
+                "homepage": null,
                 "id": 16196823,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-11-26T18:15:34Z",
+                "open_issues": 10,
                 "owner": "dougblack",
                 "repo": "sleepy",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1146,12 +1851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go framework to simplify CRUD of structured data using Graph operations",
+                "homepage": null,
                 "id": 37695407,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-03-01T00:20:42Z",
+                "open_issues": 7,
                 "owner": "manishrjain",
                 "repo": "gocrud",
-                "stars": 307
+                "stars": 307,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1162,12 +1872,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for building RESTful API's in Go",
+                "homepage": null,
                 "id": 21225456,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-14T19:08:16Z",
+                "open_issues": 0,
                 "owner": "srfrog",
                 "repo": "go-relax",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "api-rest",
+                  "go",
+                  "golang",
+                  "microservices",
+                  "restful"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1178,12 +1899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small and evil REST framework for Go",
+                "homepage": "http://go.pkgdoc.org/github.com/ungerik/go-rest",
                 "id": 5017662,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-01-20T13:26:12Z",
+                "open_issues": 2,
                 "owner": "ungerik",
                 "repo": "go-rest",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1194,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go library help testing your RESTful API application",
+                "homepage": null,
                 "id": 21199134,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-02T10:32:16Z",
+                "open_issues": 6,
                 "owner": "go-restit",
                 "repo": "restit",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1210,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A REST framework for quickly writing resource based services in Golang.",
+                "homepage": "http://resoursea.com/",
                 "id": 29787342,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2015-02-01T22:58:21Z",
+                "open_issues": 0,
                 "owner": "resoursea",
                 "repo": "api",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1233,12 +1969,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A damn simple library for building production-ready RESTful web services.",
+                "homepage": "https://www.dropwizard.io",
                 "id": 1272129,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T23:55:29Z",
+                "open_issues": 42,
                 "owner": "dropwizard",
                 "repo": "dropwizard",
-                "stars": 8577
+                "stars": 8577,
+                "topics": [
+                  "dropwizard",
+                  "hibernate",
+                  "java",
+                  "jax-rs",
+                  "jdbi",
+                  "jersey-framework",
+                  "jersey2",
+                  "jetty",
+                  "rest",
+                  "restful-webservices",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1249,12 +2002,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP web applications for Vert.x",
+                "homepage": null,
                 "id": 26628954,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:03:47Z",
+                "open_issues": 156,
                 "owner": "vert-x3",
                 "repo": "vertx-web",
-                "stars": 1150
+                "stars": 1150,
+                "topics": [
+                  "client",
+                  "reactive",
+                  "server",
+                  "sockjs",
+                  "vertx",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1265,12 +2030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalist Java framework for rapidly creating scalable, containerless, RESTful microservices. Ship a production-quality, headless, RESTful API in the shortest time possible. Uses Netty for HTTP, Jackson for JSON, Metrics for metrics, properties files for configuration. Sub-projects and plugins enable, NoSQL, Swagger, Auth0, HAL integration, etc.",
+                "homepage": "https://groups.google.com/d/forum/restexpress",
                 "id": 1227017,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:42:25Z",
+                "open_issues": 28,
                 "owner": "RestExpress",
                 "repo": "RestExpress",
-                "stars": 939
+                "stars": 939,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1288,12 +2058,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A lightweight framework for writing REST services in Scala.",
+                "homepage": null,
                 "id": 10941345,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-15T12:17:35Z",
+                "open_issues": 12,
                 "owner": "d2iq-archive",
                 "repo": "chaos",
-                "stars": 249
+                "stars": 249,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1311,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Packages for defining APIs, running them, generating client code and documentation.",
+                "homepage": "http://silkapp.github.io/rest",
                 "id": 18441357,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2018-10-02T17:26:16Z",
+                "open_issues": 50,
                 "owner": "silkapp",
                 "repo": "rest",
-                "stars": 386
+                "stars": 386,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1340,12 +2123,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+                "homepage": "https://insomnia.rest",
                 "id": 56899284,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:12:18Z",
+                "open_issues": 867,
                 "owner": "Kong",
                 "repo": "insomnia",
-                "stars": 39958
+                "stars": 39958,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-design",
+                  "curl",
+                  "electron-app",
+                  "graphql",
+                  "grpc",
+                  "http-client",
+                  "rest-api",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1356,12 +2155,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+                "homepage": "https://httpie.io",
                 "id": 3544424,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
+                "open_issues": 335,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38465
+                "stars": 38465,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-testing",
+                  "cli",
+                  "client",
+                  "curl",
+                  "debugging",
+                  "developer-tools",
+                  "development",
+                  "devops",
+                  "http",
+                  "http-client",
+                  "httpie",
+                  "json",
+                  "python",
+                  "rest",
+                  "rest-api",
+                  "terminal",
+                  "usability",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1372,12 +2197,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line JSON processor",
+                "homepage": "https://jqlang.org",
                 "id": 5101141,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T15:06:16Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35503
+                "stars": 35506,
+                "topics": [
+                  "jq"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1388,12 +2220,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+                "homepage": "https://http-prompt.com",
                 "id": 55584626,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-21T06:03:21Z",
+                "open_issues": 56,
                 "owner": "httpie",
                 "repo": "http-prompt",
-                "stars": 9108
+                "stars": 9108,
+                "topics": [
+                  "api",
+                  "api-cli",
+                  "api-testing",
+                  "autocomplete",
+                  "cli",
+                  "developer-tools",
+                  "development",
+                  "http",
+                  "http-client",
+                  "httpie",
+                  "json",
+                  "python",
+                  "rest-api",
+                  "shell",
+                  "syntax-highlighting",
+                  "terminal",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1404,12 +2259,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java DSL for easy testing of REST services",
+                "homepage": null,
                 "id": 1011539,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T08:35:07Z",
+                "open_issues": 593,
                 "owner": "rest-assured",
                 "repo": "rest-assured",
-                "stars": 7138
+                "stars": 7139,
+                "topics": [
+                  "groovy",
+                  "http",
+                  "java",
+                  "json",
+                  "kotlin",
+                  "rest",
+                  "rest-api",
+                  "test",
+                  "test-automation",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1420,12 +2291,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Catch API bugs before your users do",
+                "homepage": "https://schemathesis.readthedocs.io",
                 "id": 203157084,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:20:07Z",
+                "open_issues": 8,
                 "owner": "schemathesis",
                 "repo": "schemathesis",
-                "stars": 3565
+                "stars": 3565,
+                "topics": [
+                  "api",
+                  "api-testing",
+                  "cli",
+                  "fuzzing",
+                  "graphql",
+                  "hypothesis",
+                  "openapi",
+                  "property-based-testing",
+                  "pytest",
+                  "swagger",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1436,12 +2324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Little command line REST client that you can use in pipelines (bash or zsh).",
+                "homepage": null,
                 "id": 203438,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-02-17T16:10:52Z",
+                "open_issues": 17,
                 "owner": "micha",
                 "repo": "resty",
-                "stars": 2653
+                "stars": 2653,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1452,12 +2345,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated API Testing and Quality Assurance",
+                "homepage": "https://stepci.com",
                 "id": 537500924,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2024-08-03T09:44:52Z",
+                "open_issues": 73,
                 "owner": "stepci",
                 "repo": "stepci",
-                "stars": 1868
+                "stars": 1868,
+                "topics": [
+                  "actions",
+                  "api-client",
+                  "api-rest",
+                  "api-testing",
+                  "api-testing-framework",
+                  "automated-testing",
+                  "ci",
+                  "continuous-integration",
+                  "github-actions",
+                  "graphql",
+                  "grpc",
+                  "grpc-client",
+                  "integration-testing",
+                  "load-testing",
+                  "qa",
+                  "soap",
+                  "swagger",
+                  "test-automation",
+                  "testing-tools",
+                  "trpc"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1468,12 +2387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple, intuitive HTTP REPL — Speak HTTP like a local.",
+                "homepage": null,
                 "id": 694225,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-07T20:39:31Z",
+                "open_issues": 14,
                 "owner": "cloudhead",
                 "repo": "http-console",
-                "stars": 1386
+                "stars": 1386,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1484,12 +2408,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Extensible Request/Response Workbench",
+                "homepage": "https://milkman.dev",
                 "id": 178002723,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-04T12:53:04Z",
+                "open_issues": 16,
                 "owner": "warmuuh",
                 "repo": "milkman",
-                "stars": 1339
+                "stars": 1339,
+                "topics": [
+                  "grpc",
+                  "hacktoberfest",
+                  "http",
+                  "milkman-plugins",
+                  "rest",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1500,12 +2436,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦏  | Best in class Microservice automation testing. Test Driven Happiness",
+                "homepage": "https://restqa.io",
                 "id": 258732511,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-13T09:55:50Z",
+                "open_issues": 18,
                 "owner": "restqa",
                 "repo": "restqa",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "gherkin",
+                  "restqa",
+                  "test-automation",
+                  "testing-tools",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1523,12 +2470,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+                "homepage": null,
                 "id": 14747598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-23T19:40:00Z",
+                "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75699
+                "stars": 75698,
+                "topics": [
+                  "api",
+                  "fake",
+                  "frontend",
+                  "json",
+                  "mock",
+                  "rest",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1539,12 +2499,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Development tool to mock API endpoints quickly and easily - NOT MAINTAINED",
+                "homepage": "https://github.com/iridakos/duckrails/wiki",
                 "id": 53192550,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-12-11T15:39:07Z",
+                "open_issues": 34,
                 "owner": "iridakos",
                 "repo": "duckrails",
-                "stars": 1710
+                "stars": 1710,
+                "topics": [
+                  "api",
+                  "api-server",
+                  "apis",
+                  "developer-tools",
+                  "developers",
+                  "docker",
+                  "mock",
+                  "mocking",
+                  "productivity",
+                  "webdev"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1555,12 +2531,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch fetch/XMLHttpRequest to fake a REST API server in the browser, based on JSON data.",
+                "homepage": null,
                 "id": 32814581,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T22:45:41Z",
+                "open_issues": 2,
                 "owner": "marmelab",
                 "repo": "FakeRest",
-                "stars": 456
+                "stars": 456,
+                "topics": [
+                  "client",
+                  "fetch",
+                  "frontend",
+                  "mock",
+                  "rest",
+                  "test",
+                  "xmlhttprequest"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             },
@@ -1571,12 +2560,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP requests collector to test webhooks, notifications, REST clients and more ...",
+                "homepage": "https://rbaskets.in",
                 "id": 46608698,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-27T23:44:23Z",
+                "open_issues": 18,
                 "owner": "darklynx",
                 "repo": "request-baskets",
-                "stars": 427
+                "stars": 427,
+                "topics": [
+                  "http-requests",
+                  "qa",
+                  "rest",
+                  "rest-api",
+                  "restful",
+                  "test-automation",
+                  "testing",
+                  "testing-tools",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
             }
@@ -1598,12 +2602,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Beautiful static documentation for your API",
+            "homepage": "https://slatedocs.github.io/slate",
             "id": 12820537,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-01T05:54:12Z",
+            "open_issues": 50,
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36037
+            "stars": 36037,
+            "topics": [
+              "api",
+              "api-documentation",
+              "slate",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1614,12 +2628,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+            "homepage": "https://redocly.github.io/redoc/",
             "id": 45250726,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T14:24:51Z",
+            "open_issues": 449,
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25891
+            "stars": 25891,
+            "topics": [
+              "api-documentation",
+              "documentation-generator",
+              "documentation-tool",
+              "hacktoberfest",
+              "openapi",
+              "openapi-specification",
+              "openapi3",
+              "openapi31",
+              "reactjs",
+              "redoc",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1630,12 +2661,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.",
+            "homepage": null,
             "id": 123606765,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-08T21:11:15Z",
+            "open_issues": 29,
             "owner": "opticdev",
             "repo": "optic",
-            "stars": 1535
+            "stars": 1535,
+            "topics": [
+              "api-documentation",
+              "api-linter",
+              "apis",
+              "documentation",
+              "openapi",
+              "openapi3",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1646,12 +2690,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAML to HTML documentation generator.",
+            "homepage": "https://www.npmjs.org/package/raml2html",
             "id": 17437377,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-22T08:36:40Z",
+            "open_issues": 27,
             "owner": "raml2html",
             "repo": "raml2html",
-            "stars": 1130
+            "stars": 1130,
+            "topics": [
+              "raml",
+              "raml-document",
+              "raml-tooling",
+              "raml2html"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         }
@@ -1668,12 +2722,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦍 The API and AI Gateway",
+            "homepage": "https://konghq.com/install/",
             "id": 26783295,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
+            "open_issues": 191,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44055
+            "stars": 44055,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "api-gateway",
+              "api-management",
+              "apis",
+              "artificial-intelligence",
+              "cloud-native",
+              "devops",
+              "kubernetes",
+              "kubernetes-ingress",
+              "kubernetes-ingress-controller",
+              "llm-gateway",
+              "llm-ops",
+              "mcp",
+              "mcp-gateway",
+              "microservice",
+              "microservices",
+              "openai-proxy",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1684,12 +2764,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+            "homepage": null,
             "id": 19537979,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:20:07Z",
+            "open_issues": 498,
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10810
+            "stars": 10810,
+            "topics": [
+              "api",
+              "api-gateway",
+              "api-management",
+              "cloudnative",
+              "go",
+              "graphql",
+              "grpc",
+              "k8s",
+              "kubernetes",
+              "microservices",
+              "reverse-proxy",
+              "tyk"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1700,12 +2798,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation",
+            "homepage": "https://luraproject.org",
             "id": 72875399,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:49:15Z",
+            "open_issues": 13,
             "owner": "luraproject",
             "repo": "lura",
-            "stars": 6793
+            "stars": 6793,
+            "topics": [
+              "api-gateway",
+              "apis",
+              "backend-services",
+              "gateway",
+              "gateway-api",
+              "go",
+              "golang",
+              "krakend",
+              "load-balancer",
+              "microservice",
+              "middleware",
+              "proxies",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1716,12 +2833,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A microservices API Gateway built on top of Express.js",
+            "homepage": "https://www.express-gateway.io",
             "id": 62678265,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-14T10:22:42Z",
+            "open_issues": 78,
             "owner": "ExpressGateway",
             "repo": "express-gateway",
-            "stars": 3031
+            "stars": 3031,
+            "topics": [
+              "api-gateway",
+              "endpoints",
+              "express-gateway",
+              "express-middleware",
+              "expressjs",
+              "javascript",
+              "microservice",
+              "microservices",
+              "oauth2",
+              "oauth2-server",
+              "security",
+              "service-discovery"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1732,12 +2867,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source API management platform",
+            "homepage": null,
             "id": 5621246,
             "language": "Ruby",
-            "last_commit": "2026-08-28T23:01:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:23:45Z",
+            "open_issues": 257,
             "owner": "NatLabRockies",
             "repo": "api-umbrella",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "api-gateway",
+              "api-management",
+              "api-manager",
+              "lua",
+              "luajit",
+              "nginx",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1748,12 +2896,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.",
+            "homepage": "http://wso2.github.io/",
             "id": 20717348,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:48:12Z",
+            "open_issues": 655,
             "owner": "wso2",
             "repo": "product-apim",
-            "stars": 1023
+            "stars": 1023,
+            "topics": [
+              "api-gateway",
+              "api-management",
+              "apis",
+              "gateway",
+              "microservices",
+              "rest",
+              "synapse"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         }
@@ -1770,12 +2931,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+            "homepage": "http://marmelab.com/react-admin",
             "id": 63226588,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:43:52Z",
+            "open_issues": 74,
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26915
+            "stars": 26915,
+            "topics": [
+              "admin",
+              "admin-dashboard",
+              "admin-on-rest",
+              "admin-ui",
+              "frontend-framework",
+              "graphql",
+              "material-ui",
+              "react",
+              "react-admin",
+              "reactjs",
+              "rest",
+              "single-page-app"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1786,12 +2965,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+            "homepage": "http://swagger.io",
             "id": 2006876,
             "language": "Mustache",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T13:51:20Z",
+            "open_issues": 3447,
             "owner": "swagger-api",
             "repo": "swagger-codegen",
-            "stars": 17781
+            "stars": 17781,
+            "topics": [
+              "open-source",
+              "openapi-specification",
+              "openapi3",
+              "rest",
+              "rest-api",
+              "swagger",
+              "swagger-codegen",
+              "swagger-oss"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1802,12 +2995,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add an AngularJS admin GUI to any RESTful API",
+            "homepage": "http://ng-admin-book.marmelab.com/",
             "id": 20059361,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-01T07:58:30Z",
+            "open_issues": 111,
             "owner": "marmelab",
             "repo": "ng-admin",
-            "stars": 3901
+            "stars": 3901,
+            "topics": [
+              "admin",
+              "admin-dashboard",
+              "angular",
+              "ng-admin",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         },
@@ -1818,12 +3022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Component kit to build your Admin app with shadcn/ui",
+            "homepage": "http://marmelab.com/shadcn-admin-kit/",
             "id": 976731507,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:18:20Z",
+            "open_issues": 7,
             "owner": "marmelab",
             "repo": "shadcn-admin-kit",
-            "stars": 1073
+            "stars": 1074,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:18.056Z"
         }
@@ -1832,15 +3041,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:32:18.056Z",
+    "last_updated": "2026-08-29T04:18:53.140Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+      "homepage": "https://github.com/marmelab/awesome-rest",
       "id": 35204235,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-13T08:22:14Z",
+      "open_issues": 16,
       "owner": "marmelab",
       "repo": "awesome-rest",
-      "stars": 3909
+      "stars": 3910,
+      "topics": [
+        "awesome",
+        "rest"
+      ]
     },
     "original_repository_sha": "496e923cac94f690f0da37617607f1ffe269763e",
     "enhanced_repository": "enhansome/enhansome-rest",
