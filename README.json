@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23306,
+            "stars": 23307,
             "topics": [
               "api",
               "jwt",
@@ -68,7 +68,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23334,
                 "topics": [
                   "api",
                   "guidelines",
@@ -217,7 +217,7 @@
                 "open_issues": 9,
                 "owner": "kriswallsmith",
                 "repo": "Buzz",
-                "stars": 1916,
+                "stars": 1917,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
@@ -287,7 +287,7 @@
                 "open_issues": 23,
                 "owner": "marmelab",
                 "repo": "restful.js",
-                "stars": 962,
+                "stars": 961,
                 "topics": [
                   "frontend",
                   "http-client",
@@ -418,7 +418,7 @@
                 "open_issues": 47,
                 "owner": "jnunemaker",
                 "repo": "httparty",
-                "stars": 5896,
+                "stars": 5897,
                 "topics": [
                   "http",
                   "httparty",
@@ -546,7 +546,7 @@
                 "open_issues": 23,
                 "owner": "go-resty",
                 "repo": "resty",
-                "stars": 11769,
+                "stars": 11768,
                 "topics": [
                   "backoff",
                   "circuit-breaker",
@@ -616,7 +616,7 @@
                 "open_issues": 39,
                 "owner": "restsharp",
                 "repo": "RestSharp",
-                "stars": 9825,
+                "stars": 9826,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.056Z"
@@ -637,7 +637,7 @@
                 "open_issues": 4,
                 "owner": "reactiveui",
                 "repo": "refit",
-                "stars": 9564,
+                "stars": 9563,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -774,10 +774,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:15:32Z",
-                "open_issues": 5712,
+                "open_issues": 5719,
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26701,
+                "stars": 26706,
                 "topics": [
                   "api",
                   "api-client",
@@ -821,11 +821,11 @@
                 "id": 20787122,
                 "language": "Haskell",
                 "license": "MIT",
-                "last_commit": "2026-08-29T08:44:36Z",
-                "open_issues": 394,
+                "last_commit": "2026-08-30T13:02:10Z",
+                "open_issues": 396,
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27634,
+                "stars": 27636,
                 "topics": [
                   "api",
                   "automatic-api",
@@ -860,7 +860,7 @@
                 "open_issues": 153,
                 "owner": "prest",
                 "repo": "prest",
-                "stars": 4611,
+                "stars": 4612,
                 "topics": [
                   "api",
                   "baas",
@@ -909,7 +909,7 @@
                 "open_issues": 130,
                 "owner": "restify",
                 "repo": "node-restify",
-                "stars": 10686,
+                "stars": 10687,
                 "topics": [
                   "rest-api",
                   "restify",
@@ -1075,11 +1075,11 @@
                 "id": 39904377,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-16T07:45:04Z",
-                "open_issues": 170,
+                "last_commit": "2026-08-29T21:53:26Z",
+                "open_issues": 169,
                 "owner": "apioo",
                 "repo": "fusio",
-                "stars": 2115,
+                "stars": 2114,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1376,7 +1376,7 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2026-08-16T22:00:56Z",
-                    "open_issues": 272,
+                    "open_issues": 273,
                     "owner": "api-platform",
                     "repo": "core",
                     "stars": 2573,
@@ -1545,7 +1545,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-08-29T15:05:12Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "Badgerati",
                 "repo": "Pode",
                 "stars": 1056,
@@ -1593,10 +1593,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T17:54:56Z",
-                "open_issues": 81,
+                "open_issues": 86,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101923,
+                "stars": 101938,
                 "topics": [
                   "api",
                   "async",
@@ -1635,7 +1635,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-31T07:09:03Z",
-                "open_issues": 162,
+                "open_issues": 160,
                 "owner": "falconry",
                 "repo": "falcon",
                 "stars": 9795,
@@ -1974,8 +1974,8 @@
                 "id": 1272129,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-26T23:55:29Z",
-                "open_issues": 42,
+                "last_commit": "2026-08-30T14:07:03Z",
+                "open_issues": 45,
                 "owner": "dropwizard",
                 "repo": "dropwizard",
                 "stars": 8577,
@@ -2129,7 +2129,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:12:18Z",
-                "open_issues": 867,
+                "open_issues": 866,
                 "owner": "Kong",
                 "repo": "insomnia",
                 "stars": 39959,
@@ -2164,7 +2164,7 @@
                 "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38466,
+                "stars": 38470,
                 "topics": [
                   "api",
                   "api-client",
@@ -2206,7 +2206,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35508,
+                "stars": 35518,
                 "topics": [
                   "jq"
                 ]
@@ -2296,8 +2296,8 @@
                 "id": 203157084,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T17:33:53Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-30T09:34:19Z",
+                "open_issues": 9,
                 "owner": "schemathesis",
                 "repo": "schemathesis",
                 "stars": 3566,
@@ -2479,7 +2479,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75698,
+                "stars": 75692,
                 "topics": [
                   "api",
                   "fake",
@@ -2637,7 +2637,7 @@
             "open_issues": 449,
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25891,
+            "stars": 25892,
             "topics": [
               "api-documentation",
               "documentation-generator",
@@ -2728,10 +2728,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
-            "open_issues": 191,
+            "open_issues": 193,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44057,
+            "stars": 44059,
             "topics": [
               "ai",
               "ai-gateway",
@@ -2773,7 +2773,7 @@
             "open_issues": 498,
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10810,
+            "stars": 10809,
             "topics": [
               "api",
               "api-gateway",
@@ -2902,7 +2902,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T07:21:56Z",
-            "open_issues": 655,
+            "open_issues": 654,
             "owner": "wso2",
             "repo": "product-apim",
             "stars": 1023,
@@ -2937,10 +2937,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T14:43:52Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26915,
+            "stars": 26914,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -3041,7 +3041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:43:12.244Z",
+    "last_updated": "2026-08-30T18:03:36.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
@@ -3053,7 +3053,7 @@
       "open_issues": 16,
       "owner": "marmelab",
       "repo": "awesome-rest",
-      "stars": 3910,
+      "stars": 3912,
       "topics": [
         "awesome",
         "rest"
