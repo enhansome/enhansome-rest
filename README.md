@@ -35,7 +35,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Design
 
-* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,369 | 🐛 2 | 📅 2026-07-21 - Best practices about REST API security
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,370 | 🐛 2 | 📅 2026-07-21 - Best practices about REST API security
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design) ⭐ 13,670 | 🐛 30 | 📅 2024-01-16
 * [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -90,7 +90,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Ruby Clients
 
-* [httparty](https://github.com/jnunemaker/httparty) ⭐ 5,901 | 🐛 47 | 🌐 Ruby | 📅 2026-11-20 - Makes HTTP fun again!
+* [httparty](https://github.com/jnunemaker/httparty) ⭐ 5,901 | 🐛 38 | 🌐 Ruby | 📅 2026-11-21 - Makes HTTP fun again!
 * [RESTClient](https://github.com/rest-client/rest-client) ⭐ 5,209 | 🐛 141 | 🌐 Ruby | 📅 2024-05-19 - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [excon](https://github.com/excon/excon) ⭐ 1,176 | 🐛 15 | 🌐 Ruby | 📅 2026-11-17 - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Spyke](https://github.com/balvig/spyke) ⭐ 904 | 🐛 17 | 🌐 Ruby | 📅 2025-11-04 - Interact with REST services in an ActiveRecord-like manner.
@@ -99,13 +99,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Go Clients
 
-* [resty](https://github.com/go-resty/resty) ⭐ 11,832 | 🐛 22 | 🌐 Go | 📅 2026-11-15 - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+* [resty](https://github.com/go-resty/resty) ⭐ 11,832 | 🐛 23 | 🌐 Go | 📅 2026-11-15 - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 * [gopencils](https://github.com/bndr/gopencils) ⭐ 453 | 🐛 8 | 🌐 Go | 📅 2019-02-18 - Small and simple package to easily consume REST APIs.
 
 ### .NET Clients
 
 * [RestSharp](https://github.com/restsharp/RestSharp) ⭐ 9,807 | 🐛 28 | 🌐 C# | 📅 2026-11-17 - Simple REST and HTTP API client for .NET
-* [Refit](https://github.com/reactiveui/refit) ⭐ 9,588 | 🐛 2 | 🌐 C# | 📅 2026-11-20 - The automatic type-safe REST library for Xamarin and .NET
+* [Refit](https://github.com/reactiveui/refit) ⭐ 9,588 | 🐛 2 | 🌐 C# | 📅 2026-11-21 - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) ⭐ 1,111 | 🐛 15 | 🌐 C# | 📅 2023-12-10 - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) ⭐ 208 | 🐛 16 | 🌐 C# | 📅 2026-08-24 - Simpliest Fluent REST client for .NET.
 * [Apizr](https://github.com/Respawnsive/Apizr) ⭐ 174 | 🐛 6 | 🌐 C# | 📅 2026-10-21 - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
@@ -114,13 +114,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Generators
 
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,866 | 🐛 5,890 | 🌐 Java | 📅 2026-11-20 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,866 | 🐛 5,875 | 🌐 Java | 📅 2026-11-21 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## Servers
 
 ### Directly On Top Of A RMDB
 
-* [postgrest](https://github.com/begriffs/postgrest) ⭐ 27,763 | 🐛 407 | 🌐 Haskell | 📅 2026-11-19 - Serve a fully RESTful API directly from an existing PostgreSQL database.
+* [postgrest](https://github.com/begriffs/postgrest) ⭐ 27,763 | 🐛 407 | 🌐 Haskell | 📅 2026-11-21 - Serve a fully RESTful API directly from an existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) ⭐ 4,637 | 🐛 138 | 🌐 Go | 📅 2026-11-20 - A fully RESTful API from any existing PostgreSQL database written in Go.
 * [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
@@ -166,11 +166,11 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Python
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,978 | 🐛 49 | 🌐 Python | 📅 2026-11-18 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
-* [Falcon](https://github.com/falconry/falcon) ⭐ 9,821 | 🐛 166 | 🌐 Python | 📅 2026-11-16 - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,997 | 🐛 49 | 🌐 Python | 📅 2026-11-18 - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+* [Falcon](https://github.com/falconry/falcon) ⭐ 9,821 | 🐛 164 | 🌐 Python | 📅 2026-11-21 - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [apistar](https://github.com/encode/apistar) ⚠️ Archived - A smart Web API framework, designed for Python 3.
 * [sandman](https://github.com/jeffknupp/sandman) ⭐ 2,283 | 🐛 37 | 🌐 Python | 📅 2021-12-25 - Automated REST APIs for existing database-driven systems.
-* [Zato](https://github.com/zatosource/zato/) ⭐ 1,018 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Platform for building server-side integrations, automations and API backends in Python.
+* [Zato](https://github.com/zatosource/zato/) ⭐ 1,018 | 🐛 0 | 🌐 Python | 📅 2026-11-21 - Platform for building server-side integrations, automations and API backends in Python.
 * [Flask-Potion](https://github.com/biosustain/potion) ⚠️ Archived - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 * [Django REST framework](https://www.django-rest-framework.org/) - Powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
@@ -187,7 +187,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Go
 
-* [go-restful](https://github.com/emicklei/go-restful) ⭐ 5,112 | 🐛 2 | 🌐 Go | 📅 2026-10-14 - A declarative highly readable framework for building restful API's.
+* [go-restful](https://github.com/emicklei/go-restful) ⭐ 5,112 | 🐛 4 | 🌐 Go | 📅 2026-10-14 - A declarative highly readable framework for building restful API's.
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) ⭐ 3,478 | 🐛 45 | 🌐 Go | 📅 2021-01-23 - Thin layer on top of `net/http` that helps building RESTful APIs easily.
 * [sleepy](https://github.com/dougblack/sleepy) ⭐ 667 | 🐛 10 | 🌐 Go | 📅 2017-11-26 - RESTful micro-framework written in Go.
 * [gocrud](https://github.com/manishrjain/gocrud) ⭐ 306 | 🐛 7 | 🌐 Go | 📅 2019-03-01: Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
@@ -198,7 +198,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Java
 
-* [Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,579 | 🐛 68 | 🌐 Java | 📅 2026-11-20 - A framework for developing ops-friendly, high-performance, RESTful web services.
+* [Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,579 | 🐛 68 | 🌐 Java | 📅 2026-11-21 - A framework for developing ops-friendly, high-performance, RESTful web services.
 * [Vertx-Web](https://github.com/vert-x3/vertx-web) ⭐ 1,145 | 🐛 154 | 🌐 Java | 📅 2026-11-20 - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 * [RestExpress](https://github.com/RestExpress/RestExpress) ⭐ 939 | 🐛 28 | 🌐 Java | 📅 2026-10-28 - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 
@@ -214,12 +214,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying
 
-* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 40,179 | 🐛 930 | 🌐 TypeScript | 📅 2026-11-20 - Cross-platform HTTP and GraphQL Client
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,725 | 🐛 364 | 🌐 Python | 📅 2024-12-17 - Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,194 | 🐛 455 | 🌐 C | 📅 2026-11-02 - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [HTTP Prompt](https://github.com/eliangcs/http-prompt) ⭐ 9,107 | 🐛 55 | 🌐 Python | 📅 2024-05-21 - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 40,180 | 🐛 930 | 🌐 TypeScript | 📅 2026-11-21 - Cross-platform HTTP and GraphQL Client
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,726 | 🐛 364 | 🌐 Python | 📅 2024-12-17 - Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,208 | 🐛 458 | 🌐 C | 📅 2026-11-02 - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [HTTP Prompt](https://github.com/eliangcs/http-prompt) ⭐ 9,107 | 🐛 56 | 🌐 Python | 📅 2024-05-21 - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 * [rest-assured](https://github.com/rest-assured/rest-assured) ⭐ 7,150 | 🐛 548 | 🌐 Java | 📅 2026-11-13 - Java DSL for easy testing of REST services.
-* [Schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,795 | 🐛 17 | 🌐 Python | 📅 2026-11-20 - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,798 | 🐛 15 | 🌐 Python | 📅 2026-11-21 - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 * [resty](https://github.com/micha/resty) ⭐ 2,649 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 - Little command line REST client that you can use in pipelines (bash or zsh).
 * [Step CI](https://github.com/stepci/stepci) ⭐ 1,875 | 🐛 73 | 🌐 TypeScript | 📅 2024-08-03 - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 * [Milkman](https://github.com/warmuuh/milkman) ⭐ 1,389 | 🐛 14 | 🌐 Java | 📅 2026-10-27 - Extensible cross-platform request/response workbench, not only for http calls.
@@ -234,7 +234,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,750 | 🐛 722 | 🌐 JavaScript | 📅 2026-03-23 - Serve a REST API from fixture files using quick prototyping.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,752 | 🐛 722 | 🌐 JavaScript | 📅 2026-03-23 - Serve a REST API from fixture files using quick prototyping.
 * [DuckRails](https://github.com/iridakos/duckrails) ⚠️ Archived - Mock quickly & dynamically API endpoints.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 454 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - Redirect fetch() calls to a client-side fake REST API.
 * [Request Baskets](https://github.com/darklynx/request-baskets) ⭐ 433 | 🐛 18 | 🌐 Go | 📅 2024-06-27 - Service to collect HTTP requests and inspect them via RESTful API or web UI.
@@ -264,7 +264,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ## Documentation
 
 * [Slate](https://github.com/lord/slate) ⚠️ Archived - Beautiful and responsive three-panel API documentation using Middleman.
-* [ReDoc](https://github.com/Rebilly/ReDoc/) ⭐ 26,023 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-20 - OpenAPI/Swagger-powered three-panel documentation.
+* [ReDoc](https://github.com/Rebilly/ReDoc/) ⭐ 26,024 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-20 - OpenAPI/Swagger-powered three-panel documentation.
 * [Cortex](https://github.com/cortex-docs/cortex) ⭐ 3,285 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Generate interactive API documentation, typed SDKs, and MCP servers from OpenAPI and other API specification formats.
 * [Optic](https://github.com/opticdev/optic) ⚠️ Archived - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [raml2html](https://github.com/raml2html/raml2html) ⭐ 1,126 | 🐛 27 | 🌐 JavaScript | 📅 2022-09-22 - Generates HTML documentation from a RAML file.
@@ -276,18 +276,18 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## API Gateway
 
-* [Kong](https://github.com/Kong/kong) ⭐ 44,402 | 🐛 236 | 🌐 Lua | 📅 2026-11-20 - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-* [Tyk API Gateway](https://github.com/TykTechnologies/tyk) ⭐ 10,896 | 🐛 545 | 🌐 Go | 📅 2026-11-20 - Lightweight API gateway with analytics logging, written in Go.
+* [Kong](https://github.com/Kong/kong) ⭐ 44,403 | 🐛 237 | 🌐 Lua | 📅 2026-11-20 - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* [Tyk API Gateway](https://github.com/TykTechnologies/tyk) ⭐ 10,898 | 🐛 545 | 🌐 Go | 📅 2026-11-20 - Lightweight API gateway with analytics logging, written in Go.
 * [Lura](https://github.com/luraproject/lura) ⭐ 6,807 | 🐛 14 | 🌐 Go | 📅 2026-11-10 - Ultra performant API Gateway with middleware. Written in Go.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) ⭐ 3,026 | 🐛 82 | 🌐 JavaScript | 📅 2024-05-14 - Microservices API Gateway built on top of ExpressJS (Node.js).
-* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,209 | 🐛 261 | 🌐 Ruby | 📅 2026-11-14 - API management platform for exposing web services, with web interface and analytics, written in Lua.
+* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,210 | 🐛 261 | 🌐 Ruby | 📅 2026-11-14 - API management platform for exposing web services, with web interface and analytics, written in Lua.
 * [WSO2 API Management](https://github.com/wso2/product-apim) ⭐ 1,046 | 🐛 653 | 🌐 Java | 📅 2026-11-20 - API management tool with lightweight gateway and API lifecycle management, written in Java.
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Zuplo](https://zuplo.com/) - OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.
 
 ## SaaS Tools
 
-* [Nango](https://github.com/NangoHQ/nango) ⭐ 13,294 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-20 - Native integrations framework to consume REST APIs (open-source).
+* [Nango](https://github.com/NangoHQ/nango) ⭐ 13,301 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-20 - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
@@ -306,7 +306,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [react-admin](https://github.com/marmelab/react-admin) ⭐ 27,000 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-20 - Add a ReactJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) ⭐ 17,802 | 🐛 3,436 | 🌐 Mustache | 📅 2026-11-13 - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 * [ng-admin](https://github.com/marmelab/ng-admin) ⭐ 3,899 | 🐛 111 | 🌐 JavaScript | 📅 2020-06-01 - Add an AngularJS admin GUI to any RESTful API.
-* [shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) ⭐ 1,158 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19 - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
+* [shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) ⭐ 1,159 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19 - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
 * [Linx](https://linx.software) - Low-code API platform. Build, debug and host REST APIs
 
 ## License
@@ -317,4 +317,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
